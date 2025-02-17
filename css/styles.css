@@ -1,0 +1,81 @@
+header{
+    background-color: rgb(245, 245, 220);
+    padding: 10px 20px;
+    border: 2px solid rgb(61, 39, 207);
+}
+header p{
+    text-decoration: solid;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    text-shadow: 20px 10px 5px #000;
+}
+main{   
+    padding: 20px 40px;
+    border: 5px solid #cf2727;
+}
+
+main .logo{
+    width: 200px;
+}
+main nav{
+    display: inline-block;
+    float: right;
+    padding-top: 57px;
+}
+main nav a{
+    display: inline-block;
+    margin: 0 5px;
+    text-align: center;
+    font-size: 1rem;
+}
+.drivers{
+    padding: 20px 20px;
+    display: inline-block;
+    border: 5px dotted rgb(245, 66, 90);
+}
+article p{
+    display: inline-block;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: .8em;
+    width: 346px;
+}
+article a{
+    display: inline-block;
+    text-transform: capitalize;
+    text-align: justify;
+    width: 200px;
+}
+.results{
+    padding: 20px 20px;
+    display: inline-block;
+    border: 5px dashed rgb(6, 2, 2);
+}
+article p{
+    display: inline-block;
+    text-transform: capitalize;
+    text-align: justify;
+    font-family: "Inter", sans-serif;
+    width: 346px;
+}
+article a{
+    display: inline-block;
+    text-transform: capitalize;
+    text-align: justify;
+    width: 200px;
+}
+section {
+    border: #cf2727;
+    padding: 10px 20px;
+}
+.carousel {
+    width: 400px;
+    margin: 0 auto;
+}
+.pic_h2 {
+    text-align: center;
+    color: aqua;
+    padding: 5px 10px;
+}
